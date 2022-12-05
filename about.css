@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+}
+
+.hero {
+    background-image: url(/img/blured\ background.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    min-height: 25vh !important;
+}

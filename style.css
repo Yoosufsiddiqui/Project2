@@ -1,0 +1,15 @@
+.bg-nude{
+    background-color: pink;
+}
+.bg-orange {
+    background-color: orange;
+}
+.min-vh-75 { 
+    min-height: 75vh !important;
+}
+
+.hero {
+    background-image: url(/img/faded-background.webp);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
